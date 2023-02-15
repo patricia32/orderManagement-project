@@ -1,0 +1,1 @@
+Client{id=8, name='Nemes Denisa', age=19, budget=90} a cumparat Produs{id=5, name='Charger', price=150, stock=29}
